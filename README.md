@@ -1,2 +1,3 @@
-# GIthubmodule
-Automated GitHub repo with branches via Terraform Module
+ Welcome to main branch  in # GIthubmodule
+
+This repository and branch is created using Terraform.
