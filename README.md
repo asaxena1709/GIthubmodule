@@ -1,3 +1,3 @@
- Welcome to main branch  in # GIthubmodule
+Welcome to stage branch in # GIthubmodule
 
-This repository and branch is created using Terraform.
+This repository and branch is created using Terraform Module.
